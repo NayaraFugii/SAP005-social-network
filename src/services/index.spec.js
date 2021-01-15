@@ -1,3 +1,4 @@
+// importamos la funcion que vamos a testear
 import { myFunction } from './index';
 
 describe('myFunction', () => {

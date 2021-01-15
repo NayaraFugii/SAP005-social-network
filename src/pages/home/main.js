@@ -118,7 +118,7 @@ export const Home = () => {
                  <button class="delete"><img src="https://img.icons8.com/nolan/64/delete-forever.png"/></button>
                  <button class="edit" id ="edit"><img src="https://img.icons8.com/nolan/64/edit--v1.png"/></button> 
                   <button class="likeBtn" ><img src="https://img.icons8.com/nolan/64/like.png"/></button>    
-                  <span class ="spanLike">${post.like.length} </span>         
+                  <span class ="spanLike">${post.like.length}</span>         
                 </div>
                 </div>`
 
