@@ -1,6 +1,8 @@
 # Learning :blue_book:
 
 Para acessar a plataforma, [clique aqui.](https://rede-social-205ff.web.app)
+login nayara.camila@teste.com
+senha 123456
 
 ![image](src/img/learning1.png)
 
